@@ -1,1 +1,4 @@
-# 소프트웨어공학 과제 리포지토리
+#프로젝트1
+/doc/project1.md
+#프로젝트2
+/doc/project2.md
