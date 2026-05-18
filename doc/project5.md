@@ -39,7 +39,7 @@
 ### 3.1 CRC 카드
 
 #### **Class Name: 관리자 (Manager)**
-| ID: 01 | | Type: Concrete, Domain |
+| ID_01 | | Type: Concrete, Domain |
 | :--- | :--- | :--- |
 | **Description** | Mini Drive 시스템의 전체 리소스를 관리하는 주체를 나타낸다. | |
 | **Associated Use Case** | U_01, U_02, U_03, U_04 | |
@@ -64,7 +64,7 @@
 ---
 
 #### **Class Name: Drive DB**
-| ID: 02 | | Type: Concrete, Domain |
+| ID_02 | | Type: Concrete, Domain |
 | :--- | :--- | :--- |
 | **Description** | 드라이브 내 파일의 메타데이터 및 실제 물리적 경로 정보를 저장한다. | |
 | **Associated Use Case** | U_03, U_04 | |
@@ -84,7 +84,7 @@
 ---
 
 #### **Class Name: 로그인**
-| ID: 03 | | Type: Concrete, Domain |
+| ID_03 | | Type: Concrete, Domain |
 | :--- | :--- | :--- |
 | **Description** | 사용자의 접속 인증 및 세션 관리를 담당한다. | |
 | **Associated Use Case** | U_02 | |
@@ -138,6 +138,6 @@
 ## 7. 참고문헌 및 부록
 
 ### 7.1 참고문헌
-1. [이건하] 시스템정의서_260215_Doc-001.hwp
-2. [이건하] 프로젝트관리계획서_260310_Doc-001.hwp
-3. [이건하] 요구사항정의서_260405_Doc-001.hwp
+1. [이건하] 시스템정의서
+2. [이건하] 프로젝트관리계획서
+3. [이건하] 요구사항정의서
